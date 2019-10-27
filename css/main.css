@@ -1,0 +1,53 @@
+
+.center-div 
+{
+    margin: 0 auto;
+    width: 500px; 
+}
+
+body
+{
+    background-color: darkslategray;
+}
+
+h1  
+{
+    color: white;
+}
+
+.inner-div 
+{
+    color: white;
+    display:inline-block; 
+    vertical-align:top;
+}
+
+canvas 
+{
+    background-color: white; 
+    border: solid black 4px;
+}
+
+.btnPlay
+{
+    width: 350px;
+    height: 70px;
+    font-size: 36px;
+}
+
+.btnWrapper
+{
+   float:left;
+   width: 500px;
+  display: flex;
+  justify-content: center;    
+}
+
+.keyBoardWrapper
+{
+   float:left;
+   width: 500px;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
