@@ -420,9 +420,10 @@ function animate()
 </script>
   
     <div class="center-div">
-        <h1 style="width: 500px;text-align: center;">Apprentissage de la lecture des notes au clavier</h1>       
+       <!--<h1 style="width: 500px;text-align: center;">Apprentissage de la lecture des notes au clavier</h1>--> 
+       <div class="keyBoardWrapper"><img src="img/logo_WebMidi.png" height="100" alt=""/></div>
+       
         <canvas id="moncanvas" width="500" height="400"></canvas>
-        <br>
        
         <div>
         <div class="inner-div" style="width: 250px;height:30px;">Nombre de Notes</div>
@@ -452,8 +453,7 @@ function animate()
           <option value="toutes">Notes blanches et Altérations</option>
         </select>
         </div>
-        
-        <br>
+       
         
         <div class="btnWrapper">
                 <button class="btnPlay" id="BtnPlay" onClick="run_game();">   --PLAY!--   </button>

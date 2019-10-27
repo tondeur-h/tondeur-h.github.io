@@ -2,12 +2,16 @@
 .center-div 
 {
     margin: 0 auto;
-    width: 500px; 
-}
+    width: 504px; 
+    background-color: #000036;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+ }
 
 body
 {
-    background-color: darkslategray;
+    background-color: #000026;
 }
 
 h1  
@@ -25,7 +29,7 @@ h1
 canvas 
 {
     background-color: white; 
-    border: solid black 4px;
+    border: solid whitesmoke 2px;
 }
 
 .btnPlay
@@ -40,7 +44,8 @@ canvas
    float:left;
    width: 500px;
   display: flex;
-  justify-content: center;    
+  justify-content: center;   
+  padding: 10px;
 }
 
 .keyBoardWrapper
@@ -49,5 +54,5 @@ canvas
    width: 500px;
   display: flex;
   justify-content: center;
-  padding: 30px;
+  padding: 10px;
 }
