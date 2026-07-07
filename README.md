@@ -1,6 +1,7 @@
 # tondeur-h.github.io
 # Blog sur l'informatique Quantique
-Introduction à l’informatique quantique pour l’ingénierie et la pédagogie
+
+## Introduction à l’informatique quantique pour l’ingénierie et la pédagogie
 L’informatique quantique n’est plus seulement un sujet théorique réservé aux physiciens : elle devient progressivement un nouvel outil d’ingénierie, un domaine où les informaticiens ont un rôle essentiel à jouer. Les technologies quantiques transforment la manière dont nous concevons le calcul, la sécurité, l’optimisation ou encore la simulation de systèmes complexes.  
 
 Dans ce blog, je vais aborder l’informatique quantique de manière pragmatique, en privilégiant une approche centrée sur les besoins des ingénieurs, des développeurs et des pédagogues. L’objectif n’est pas de devenir physicien, mais de comprendre comment penser, modéliser et programmer dans un paradigme où les règles diffèrent de l’informatique classique.  
