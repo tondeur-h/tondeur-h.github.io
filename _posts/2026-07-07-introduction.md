@@ -23,3 +23,8 @@ J'avancerai étape par étape, en construisant une compréhension solide :
 - des exemples concrets pour illustrer chaque concept.  
 
 L’objectif est de fournir une vision opérationnelle de l’informatique quantique : comprendre ce que l’on fait, pourquoi on le fait, et comment cela s’intègre dans une démarche d’ingénierie moderne.  
+
+---
+
+**Hervé**  
+*Informatique quantique expliquée par un informaticien, pour les informaticiens.*
