@@ -1,4 +1,4 @@
-# tondeur-h.github.io
+# https://tondeur-h.github.io  
 # Blog sur l'informatique Quantique
 
 ## Introduction à l’informatique quantique pour l’ingénierie et la pédagogie
@@ -27,3 +27,4 @@ J'avancerai étape par étape, en construisant une compréhension solide :
 
 L’objectif est de fournir une vision opérationnelle de l’informatique quantique : comprendre ce que l’on fait, pourquoi on le fait, et comment cela s’intègre dans une démarche d’ingénierie moderne.  
 
+*[Url pour se rendre sur le site](https://tondeur-h.github.io)*
