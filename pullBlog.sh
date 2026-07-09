@@ -4,4 +4,4 @@
 REPO_URL="https://${GIT_LOGIN}:${GIT_TOKEN}@github.com/tondeur-h/tondeur-h.github.io.git"
 
 # Récupération des dernières modifications
-git pull "$REPO_URL" main
+git pull "$REPO_URL" master
